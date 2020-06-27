@@ -1,0 +1,61 @@
+.main{
+    border: 2px solid gray;
+    width: 405px;
+    height: 570px;
+    margin: 0 auto;
+    border-radius: 5px;
+    -moz-box-shadow: inset 0 0 20px #777777;
+    -webkit-box-shadow: inset 0 0 20px #777777;
+    box-shadow: inset 0 0 20px #777777;
+   background-color: rgb(94, 116, 180);
+   border-color: black;
+    
+}
+.result{
+    width: 387px;
+    height: 90px;
+    margin-left: 6px;
+    font-size:x-large;
+    margin-top: 5px;
+    background-color:rgb(199, 175, 108);
+    color: white;
+    height: 80px;
+    font-size: 45px;
+    border-color: black;
+
+   
+}
+
+.btn{
+    width: 90px;
+    height: 90px;
+    margin-left: 6px;
+    margin-top: 5px;
+    font-size: x-large;
+    
+    -moz-box-shadow: inset 0 0 20px #777777;
+    -webkit-box-shadow: inset 0 0 20px #777777;
+    box-shadow: inset 0 0 20px #777777;
+    border-color: black;
+
+}
+.clear{
+    width: 190px;
+    height: 90px;
+    margin-left: 6px;
+    font-size:x-large;
+    margin-top: 5px;
+    -moz-box-shadow: inset 0 0 10px #777777;
+    -webkit-box-shadow: inset 0 0 10px #777777;
+    box-shadow: inset 0 0 20px #777777;
+    border-color: black;
+}
+.btn:hover{
+    background-color: rgb(36, 22, 165);
+    color: wheat;
+    
+}
+.clear:hover{
+    background-color: rgb(36, 22, 165);
+    color: wheat;
+}
